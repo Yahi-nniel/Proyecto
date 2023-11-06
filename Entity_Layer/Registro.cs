@@ -15,5 +15,6 @@ namespace Entity_Layer
         string cedula { get; set; } 
         string sexo { get; set; }
         string edad { get; set; }
+        //Axel was here
     }
 }
